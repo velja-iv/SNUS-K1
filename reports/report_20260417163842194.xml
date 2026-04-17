@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report>
+  <GeneratedAt>2026-04-17T16:38:42.1942682Z</GeneratedAt>
+  <Types>
+    <Type Name="Prime">
+      <Executed>200</Executed>
+      <AverageTimeMs>2</AverageTimeMs>
+      <Failed>0</Failed>
+    </Type>
+    <Type Name="IO">
+      <Executed>72</Executed>
+      <AverageTimeMs>1141</AverageTimeMs>
+      <Failed>99</Failed>
+    </Type>
+  </Types>
+</Report>
